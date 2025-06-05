@@ -1,5 +1,4 @@
-## Initial repository for CallPoint agency.
----
+### Initial repository for CallPoint agency.
 
 Welcome to CallPoint Digital Agency 🚀
 At CallPoint, we help brands connect, communicate, and convert.
